@@ -51,7 +51,31 @@
 #switcher ul li a img{
 	width:30px;
 }
-
+#switcher h3{
+	padding-top: 10px;
+	border-top: #ccc 1px solid; 
+	text-transform: none;
+	font-size:12px;
+	font-weight:bold;
+	color:#333;
+	margin: 0 0 10px 0;
+}
+#switcher h2{
+	text-transform: none;
+	font-size:12px;
+	font-weight:bold;
+	color:#333;
+	margin: 0 0 10px 0;
+	margin-top: -10px;
+}
+#switcher h1{
+	text-transform: none;
+	font-size:12px;
+	font-weight:bold;
+	color:#333;
+	margin: 0 0 10px 0;
+	margin-top: -10px;
+}
 #showSwitcher {
 	z-index: 11111;
 	margin-left:0px;
@@ -174,8 +198,8 @@
 		top:40px;
 	}
 	#showSwitcher {
-		top: 15px;
-		display: none;
+		/*top: 15px;
+		display: none;*/
 	}
 }
 
