@@ -1766,7 +1766,8 @@ body.light hr.separator {
     width: 20px;
     height: 20px;
   }
-
+  .d-sm-block {
+    display: block!important;
   .portfolio .slideshow nav {
     height: 62px;
   }
